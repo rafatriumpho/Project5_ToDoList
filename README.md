@@ -58,4 +58,4 @@ Project5_ToDoList/
 
 1. Open the project folder in Visual Studio Code
 
-2. Run the Python file:
+2. Run the Pyhton file:
